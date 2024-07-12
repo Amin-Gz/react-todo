@@ -1,0 +1,12 @@
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+label,
+th {
+  color: #27374d;
+}
+/* todo add the border-color's default color to the list above and config it in tailwind */
